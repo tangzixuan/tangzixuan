@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-* try to be an excellent full-stack engineer !
+* try to be an excellent software engineer !
 
 **Languages and Tools:**  
 * basic tool:
