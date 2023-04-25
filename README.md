@@ -15,7 +15,9 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/github/explore@master/topics/react/react.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/github/explore@master/topics/webpack/webpack.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/github/explore@master/topics/vite/vite.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/github/explore@master/topics/nginx/nginx.png"></code>
 
 * server end:
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/github/explore@master/topics/go/go.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/github/explore@master/topics/redis/redis.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/github/explore@master/topics/mysql/mysql.png"></code>
