@@ -1,25 +1,26 @@
 
 ### Hi there 👋
+
 * try to be an excellent software engineer !
 
 **Languages and Tools:**  
-* basic tool:
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/github/explore@master/topics/git/git.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/github/explore@master/topics/docker/docker.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/github/explore@master/topics/linux/linux.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/github/explore@master/topics/github/github.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></code>
+<code><img height="20" src="./assets/basic/linux.png"></code>
+<code><img height="20" src="./assets/basic/vscode.svg"></code>
+<code><img height="20" src="./assets/basic/docker.png"></code>
+<code><img height="20" src="./assets/basic/github.png"></code>
+<code><img height="20" src="./assets/basic/git.png"></code>
+---  
 
-* front end: 
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/github/explore@master/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/github/explore@master/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/github/explore@master/topics/react/react.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/github/explore@master/topics/webpack/webpack.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/github/explore@master/topics/vite/vite.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/github/explore@master/topics/nginx/nginx.png"></code>
+<code><img height="20" src="./assets/fe/js.png"></code>
+<code><img height="20" src="./assets/fe/ts.png"></code>
+<code><img height="20" src="./assets/fe/react.png"></code>
+<code><img height="20" src="./assets/fe/webpack.png"></code>
+<code><img height="20" src="./assets/fe/vite.png"></code>
+<code><img height="20" src="./assets/fe/nginx.png"></code>
+---  
 
-* server end:
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/github/explore@master/topics/go/go.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/github/explore@master/topics/redis/redis.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/github/explore@master/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://learn.microsoft.com/en-us/previous-versions/windows/desktop/msmq/images/ms711472.4832685f-43eb-40e1-9424-06dcbe56b0ec(vs.85).jpeg"></code>
+<code><img height="20" src="./assets/server/go.png"></code>
+<code><img height="20" src="./assets/server/redis.png"></code>
+<code><img height="20" src="./assets/server/mysql.png"></code>
+<code><img height="20" src="./assets/server/message-queue.png"></code>
+---
