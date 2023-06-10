@@ -21,7 +21,7 @@
 <code><img width="20" height="20" src="./assets/fe/vite.png"></code>
 <code><img width="20" height="20" src="./assets/fe/nginx.png"></code>
 <code><img width="20" height="20" src="./assets/fe/nextjs.png"></code>
-<code><img width="30" height="20" src="./assets/fe/prisma.svg"></code>
+<code><img width="20" height="20" src="./assets/fe/prisma.png"></code>
 ---  
 
 <code><img width="20" height="20" src="./assets/server/go.png"></code>
