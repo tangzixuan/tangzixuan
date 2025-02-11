@@ -24,7 +24,6 @@
 <code><img width="20" height="20" src="./assets/fe/prisma.png"></code>
 ---  
 
-<code><img width="20" height="20" src="./assets/server/go.png"></code>
 <code><img width="20" height="20" src="./assets/server/rust.svg"></code>
 <code><img width="20" height="20" src="./assets/server/redis.png"></code>
 <code><img width="20" height="20" src="./assets/server/mysql.png"></code>
